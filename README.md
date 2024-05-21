@@ -1,4 +1,4 @@
-###patternQuestions
+#patternQuestions
 
 -> Match the pattern number to pattern question number.
   For example patterr no. 3 = p3.cpp
@@ -255,7 +255,7 @@
     *        *
 
 
-###Clone this Repository
+#Clone this Repository
 
 To clone this repository to your local machine, follow these steps:
 
